@@ -5,7 +5,7 @@ A responsive and interactive Scientific Calculator built using HTML, CSS, and Ja
 
 ## 🚀 Live Demo
 
-[**Open Scientific Calculator**](YOUR_GITHUB_PAGES_URL)
+[🚀 Open Scientific Calculator](https://ghouse7162.github.io/Scientific-Calc-clone/)
 
 ## ✨ Features
 
